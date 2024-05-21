@@ -9,7 +9,7 @@ This project aims to propose guidelines for preventing personal data breaches an
 - Collect data from Youtube videos and collect data manually.</br>
 - Using Roboflow for label, preprocessing and Augmentations.</br>
 - Using yolov8m and faster-RCNN to train model.</br>
-- Using openCV to read data from image or video for bluring face and vehicle license plate.</br> 
+- Using openCV to read data from image or video for bluring face and vehicle license plate.</br> </br> 
 
 
 ## Installation
