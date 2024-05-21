@@ -10,6 +10,12 @@ This project aims to propose guidelines for preventing personal data breaches an
 - Using Roboflow for label, preprocessing and Augmentations.</br>
 - Using yolov8m and faster-RCNN to train model.</br>
 - Using openCV to read data from image or video for bluring face and vehicle license plate.</br> </br> 
+<img src = "Other/Detected_GIF.gif" />
+<a> Model detected on face and vehicle license plate</a>
+</br>
+<img src = "Other/Blurred_GIF.gif" />
+<a> Blurred where detected</a>
+</br>
 
 
 ## Installation
