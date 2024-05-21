@@ -1,5 +1,6 @@
 # Blurring-faces-and-vehicle-license-plates
-Topic : Blurring-faces-and-vehicle-license-plates</br>
+Topic : Preventing personal data breaches through image processing and machine learning.
+</br>
 Knowledge : Image processing, Computer vision, Machine learning</br>
 Tools : Python, OpenCV, YOLOv8</br></br>
 
