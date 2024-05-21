@@ -11,10 +11,10 @@ This project aims to propose guidelines for preventing personal data breaches an
 - Using yolov8m and faster-RCNN to train model.</br>
 - Using openCV to read data from image or video for bluring face and vehicle license plate.</br> </br> 
 
-<a> Model detected on face and vehicle license plate</a>
+<a> (-) Model detected on face and vehicle license plate</a></br>
 <img src = "Other/Detected_GIF.gif" />
 </br>
-<a> Blurred where detected</a>
+<a> (-) Blurred where detected</a></br>
 <img src = "Other/Blurred_GIF.gif" />
 </br>
 
