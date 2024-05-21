@@ -18,26 +18,26 @@ To use the Blurring faces and vehicle license plate, follow these step :</br></b
 </br></br>
 install libraries :
 ```bash
-  python3 -m pip install opencv-python[gui] ultralytics roboflow
+  $ python3 -m pip install opencv-python[gui] ultralytics roboflow
 ```
 
 install my project :</br>
 ```bash
-  git clone https://github.com/watcharapol28/Blurring-faces-and-vehicle-license-plates.git
+  $ git clone https://github.com/watcharapol28/Blurring-faces-and-vehicle-license-plates.git
 ```
 </br>
 
 
 ## Running
 To run the Blurring faces and vehicle license plate, follow these step :</br></br>
-upload file videos that want to blur in the folder "...\Blurring-faces-and-vehicle-license-plates\Test data\Videos\"
+upload file videos that want to blur in the folder _"...\Blurring-faces-and-vehicle-license-plates\Test data\Videos\"_
 </br></br>
 
 open folder :
 ```bash
-  cd Blurring-faces-and-vehicle-license-plates
+  $ cd Blurring-faces-and-vehicle-license-plates
 ```
-change code in Blur_YOLO.ipynb (Input/Output path) to your videos name on [File name].[File type] :
+change code in Blur_YOLO.ipynb (Input/Output path) to your videos name on `File name.File type` :
 
 ```py
   input_video_path = "...\Blurring-faces-and-vehicle-license-plates\Test data\Videos\[File name].[File type]"
@@ -45,5 +45,5 @@ change code in Blur_YOLO.ipynb (Input/Output path) to your videos name on [File 
 ```
 
 
-The results are stored in "...\Blurring-faces-and-vehicle-license-plates\Test data\Blurred\"</br>
+The results are stored in _"...\Blurring-faces-and-vehicle-license-plates\Test data\Blurred\"_</br>
 </br></br>
